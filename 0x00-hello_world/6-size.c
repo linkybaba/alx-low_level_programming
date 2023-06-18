@@ -9,11 +9,11 @@
 int main(void)
 
 {
-	printf("size of char:%zu byte(s)\n", sizeof(char));
-	printf("size of int:%zu byte(s)\n", sizeof(int));
-	printf("size of long int:%zu byte(s)\n", sizeof(long));
-	printf("size of long long int:%zu byte(s)\n", sizeof(long long));
-	printf("size of float:%zu byte(s)\n", sizeof(float));
+	printf ("size of char:1 byte(s)\n", sizeof(char));
+	printf ("size of int:4 byte(s)\n", sizeof(int));
+	printf ("size of long int:8 byte(s)\n", sizeof(long));
+	printf ("size of long long int:8 byte(s)\n", sizeof(long long));
+	printf ("size of float:4 byte(s)\n", sizeof(float));
 
 	return(0);
 
