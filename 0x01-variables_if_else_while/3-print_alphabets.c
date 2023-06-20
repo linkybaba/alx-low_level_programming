@@ -9,9 +9,7 @@
 int main(void)
 {
 	char lowercase, uppercase;
-	
 	/* prints lowercase alphabet*/
-	
 	lowercase = 'a';
 
 	while (lowercase <= 'z')
@@ -20,9 +18,8 @@ int main(void)
 		lowercase++;
 	}
 	
-	/*prints uppercase alphabet*/
-	
-	uppercase = 'A';
+	/*prints uppercase alphabe*/
+       	uppercase = 'A';
 
 	while (uppercase <= 'Z')
 	{
