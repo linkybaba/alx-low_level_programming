@@ -11,16 +11,16 @@ int main(void)
 	char lowercase, uppercase;
 	/* prints lowercase alphabet*/
 	lowercase = 'a';
-
+                         
 	while (lowercase <= 'z')
 	{
 		putchar(lowercase);
 		lowercase++;
 	}
+      	
+	/*prints uppercase alphabet*/
+	uppercase = 'A';
 	
-	/*prints uppercase alphabe*/
-       	uppercase = 'A';
-
 	while (uppercase <= 'Z')
 	{
 		putchar(uppercase);
