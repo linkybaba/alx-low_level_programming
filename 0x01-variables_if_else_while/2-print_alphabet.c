@@ -9,7 +9,7 @@
 int main(void)
 {
 	/**
-	* Declare a variable and initialize it with the 
+	* Declare a variable and initialize it with the
 	* first member of the range [a - z]
 	*
 	*/
