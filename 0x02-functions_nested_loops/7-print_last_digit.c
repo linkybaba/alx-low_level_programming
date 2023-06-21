@@ -2,7 +2,7 @@
 
 /**
  * print_last_digit - prints the last digit of a number
- * @c: a random number
+ * @n: a random number
  * Return: last_digit (success)
  */
 
