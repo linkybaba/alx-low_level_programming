@@ -6,15 +6,13 @@
  * Return: the numbers 0 to 9
  * 
  */
-
 void print_numbers(void)
 {
-	int n;
-
-	while (n <= 9)
+	int x;
+	
+	for (x = 0; x <= 9; x++)
 	{
-	_putchar(n + '0');
-	n++;
+	_putchar(x + '0');
 	}
 	_putchar("\n");
 }
