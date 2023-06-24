@@ -9,11 +9,12 @@
 
 void print_numbers(void)
 {
-	int n = 0;
-	while (i <= 9)
+	int n;
+
+	while (n <= 9)
 	{
-	i++;
-	_putchar(i + '0');
+	_putchar(n + '0');
+	n++;
 	}
-	_putchar ("\n");
+	_putchar("\n");
 }
