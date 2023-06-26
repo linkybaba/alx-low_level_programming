@@ -3,14 +3,14 @@
 
 /**
  * puts2 - prints every other character
- * @s: An integer input pointer
+ * @str: An integer input pointer
  * Return: void
  */
 
 void puts2(char *str)
 {
 	int i;
-	int j =0;
+	int j = 0;
 
 	while (str[j] != '\0')
 	{
