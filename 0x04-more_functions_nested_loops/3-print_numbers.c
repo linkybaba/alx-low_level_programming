@@ -2,10 +2,9 @@
 
 /**
  * print_numbers - prints numbers
- * 
  * Return: the numbers 0 to 9
- * 
- */
+ */ 
+ 
 void print_numbers(void)
 {
 	int x;
