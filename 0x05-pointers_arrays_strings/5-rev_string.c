@@ -2,7 +2,7 @@
 
 
 /**
- * print_rev - prints reverses a string
+ * rev_string - prints reverses a string
  * @s: An integer input pointer
  * Return: void
  */
