@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strncpy - concatenates two strings using at most 
+ * _strncpy - concatenates two strings using at most
  * @dest: The buffer storing the string copy
  * @src: The source string
  * @n: The number of bytes to be copied from the string
